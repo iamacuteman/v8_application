@@ -1,0 +1,27 @@
+{
+  "name": "v8_aprusfrontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ant-design-vue": "^3.2.20",
+    "axios": "^1.4.0",
+    "pinia": "^2.1.6",
+    "vue": "^3.3.4",
+    "vue-i18n": "^9.2.2",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.1",
+    "@vitejs/plugin-vue-jsx": "^3.0.2",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28",
+    "sass": "^1.66.1",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.9"
+  }
+}
